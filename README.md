@@ -1,4 +1,4 @@
-![Logotipo de reserva](/img/Reservia.svg)
+
 
 # Reserva: Mercado de alquiler
 *Transforme la maqueta en una plantilla estática HTML/CSS responsiva de una página*
