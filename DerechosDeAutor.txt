@@ -1,0 +1,4 @@
+Declaración de Autoría
+Declaro que el código que subo a este repositorio es de mi autoría original. Todos los derechos de autor sobre este trabajo me pertenecen, y tengo la autoridad para distribuirlo y modificarlo según mi criterio.
+Derechos de Autor
+Como autor, poseo los derechos exclusivos para reproducir, distribuir y crear obras derivadas basadas en este código. Cualquier uso de este trabajo por parte de terceros deberá ser autorizado por mí, de acuerdo con la licencia que elija aplicar.
